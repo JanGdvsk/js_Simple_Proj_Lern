@@ -31,7 +31,6 @@
 
 ## Teacher
 
-**Владимир Шевчук**
 
 * [<img alt="GitHub" width="18px" src="https://raw.githubusercontent.com/boris-catsvill/project-structure/master/tech-stack/github-logo.png" /> GitHub](https://github.com/dosandk)
 * [<img alt="learn.javascript" width="18px" src="https://raw.githubusercontent.com/boris-catsvill/project-structure/master/tech-stack/learn-javascript-logo.png" /> learn.javascript](http://learn.javascript.ru/profile/v-shevchuk)
